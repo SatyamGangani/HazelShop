@@ -1,10 +1,38 @@
+body{
+    background-image: linear-gradient(to right top, #d9d9e9, #dad6ed, #dcd2ef, #e0cef1, #e5caf1, #ddbde5, #d5afd9, #cda2cd, #b689b4, #9f709b, #895883, #73416c);
+}
 .nav-logo{
-    max-width: 100px;
+    min-width: 100px;
+    max-width: 170px;
+    /* height: 60px; */
 }
 
 .client{
     border-radius: 100px;
-}
+}ok
 .footer{
     margin-bottom: 0px;
+    height: 200px;
+    background-color: rgb(241, 248, 217);
 }
+.nav-link{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+    text-decoration: solid;
+    text-decoration: none;
+    color: rgb(54, 53, 53);
+}
+.site{
+    background-color: whitesmoke;
+    
+}
+.womens{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px whitesmoke;
+    font-weight: bold;
+    border-radius: 4px;
+}
+/* .latest{
+    background-color: rgb(250, 243, 235);
+} */ 
